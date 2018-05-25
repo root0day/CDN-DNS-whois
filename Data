@@ -7,16 +7,16 @@
 ###
 
 又拍云
-.aicdn.com
+*.aicdn.com
 
 dnspod
 *.dnsv5.com
 
 阿里云
-*alicloudlayer.com
-*alibabadns.com
-*aliyun.com
-*w.kunlungr.com
+*.alicloudlayer.com
+*.alibabadns.com
+*.aliyun.com
+*.w.kunlungr.com
 
 百度
 *shifen.com
@@ -31,42 +31,42 @@ DnsCEO
 *.chinanet.cn
 
 创宇加速乐
-*jiasule.net
+*.jiasule.net
 
 腾讯大禹CDN
-*qq.com
+*.qq.com
 
 360网站卫士
-*360safe.com
+*.360safe.com
 
 Dyn
-*dynect.net
+*.dynect.net
 
 cloudflare
-*cloudflare.com
+*.cloudflare.com
 
 网易
-*nease.net
+*.nease.net
 
 DOT.tk
-*dns.tk
+*.dns.tk
 
 akam
-*godaddy.com
-*akam.net
-*domaincontrol.com
+*.godaddy.com
+*.akam.net
+*.domaincontrol.com
 
 网宿科技
-*lxdns.com
+*.lxdns.com
 
 KT enteom韩国
-*kornet.net
+*.kornet.net
 
 华为
-*huawei.com
+*.huawei.com
 
 未识别
-*hastydns.com
+*.hastydns.com
 
 
 
