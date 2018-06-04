@@ -19,13 +19,13 @@ dnspod
 *.w.kunlungr.com
 
 百度
-*shifen.com
+*.shifen.com
 
 DnsCEO
-*dnscto.net
+*.dnscto.net
 
 北京蓝汛通信技术有限责任公司
-*chinacache.com
+*.chinacache.com
 
 北京中企神州网络技术有限公司
 *.chinanet.cn
@@ -67,6 +67,9 @@ KT enteom韩国
 
 未识别
 *.hastydns.com
+
+新网DNS
+*.xincache.com
 
 
 
