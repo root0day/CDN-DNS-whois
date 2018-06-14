@@ -8,6 +8,8 @@
 
 又拍云
 *.aicdn.com
+*.b0.aicdn.com
+*.ialloc.com
 
 dnspod
 *.dnsv5.com
