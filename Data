@@ -71,5 +71,6 @@ KT enteom韩国
 新网DNS
 *.xincache.com
 
-
+七牛云CDN
+*.qiniudns.com
 
