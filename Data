@@ -23,9 +23,6 @@ dnspod
 *.alibabadns.com
 *.aliyun.com
 *.w.kunlungr.com
-*.ourwebpic.org
-*.ourwebpic.info
-2h.shark.ourwebpic.com
 
 
 百度
@@ -77,6 +74,10 @@ akam
 *.wswebcdn.com
 *.wswebpic.com
 *.wsssec.com
+*.ourwebpic.org
+*.ourwebpic.info
+>2h.shark.ourwebpic.com
+
 
 KT enteom韩国
 *.kornet.net
