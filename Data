@@ -16,6 +16,7 @@
 
 dnspod
 *.dnsv5.com
+*.dnsv3.com
 
 阿里云
 *.alicloudlayer.com
